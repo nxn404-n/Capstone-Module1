@@ -52,9 +52,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Capstone project for Module-1 <a name="about-project"></a>
 
-
-**[your_project__name]** is a...
-
 ## 🛠 Built With <a name="built-with"></a>
 
 
