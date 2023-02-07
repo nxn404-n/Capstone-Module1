@@ -41,7 +41,7 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+- [📼 Project Walkthrough](#project-walk)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Credit](#credit)
@@ -93,6 +93,13 @@ After you're finished please remove all the comments and instructions!
 
 
 - [Live Demo Link](https://nxn404-n.github.io/Capstone-M1/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📼 Project Walkthrough <a name="project-walk"></a>
+
+- [Project Walkthrough Link](https://www.loom.com/share/f57c70ac3e6149468e498cff316073ef)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
