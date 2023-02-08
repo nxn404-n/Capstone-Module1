@@ -1,4 +1,4 @@
-@media(min-width: 768px) {
+@media (min-width: 768px) {
   .partner {
     display: none;
   }
@@ -8,7 +8,7 @@
   }
 }
 
-@media(max-width: 768px) {
+@media (max-width: 768px) {
   .footer-black-1 {
     display: block;
   }

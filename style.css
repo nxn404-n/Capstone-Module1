@@ -367,7 +367,7 @@ h1 {
 
 footer {
   background-color: #fff;
-  color: #000000;
+  color: #000;
   padding-top: 5px;
   padding-left: 20px;
   padding-bottom: 25px;
@@ -378,7 +378,7 @@ footer {
 
 .footer-black {
   background-color: #2e2e2e;
-  color: #ffffff;
+  color: #fff;
   padding-top: 5px;
   padding-left: 20px;
   padding-bottom: 25px;
