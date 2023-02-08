@@ -310,17 +310,18 @@ h1 {
 }
 
 .past-cc__box {
-  padding: 30px 50px;
+  padding: 30px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 12px;
+  min-width: 70%;
 }
 
 .past-cc__box__box1,
 .past-cc__box__box2 {
   position: relative;
-  max-width: 90%;
+  width: 100%;
 }
 
 .past-cc__box__img {
@@ -346,7 +347,7 @@ h1 {
   flex-direction: column;
   background-color: #414246;
   color: #f7f7f7;
-  padding: 30px 10px 0;
+  padding: 30px 10px 30px;
 }
 
 .partner__h2 {
@@ -365,8 +366,19 @@ h1 {
 }
 
 footer {
-  background-color: #414246;
-  color: #f7f7f7;
+  background-color: #fff;
+  color: #000000;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-black {
+  background-color: #2e2e2e;
+  color: #ffffff;
   padding-top: 5px;
   padding-left: 20px;
   padding-bottom: 25px;
@@ -374,20 +386,20 @@ footer {
 
 .footer-flex {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 70%;
   margin-top: 40px;
+  gap: 70px;
 }
 
 .footer__logo__img {
-  width: 60%;
+  width: 100%;
 }
 
 .footer__p {
-  text-align: center;
+  text-align: left;
   font-size: 15px;
   font-weight: 500;
-  width: 1000px;
+  width: 80%;
 }
 
 .top-nav {
@@ -498,16 +510,19 @@ footer {
     grid-area: four;
   }
 
+  .box5 {
+    grid-area: five;
+  }
+
   .main-program__h2 {
     padding-top: 40px;
   }
 
   .main-program__grid-container {
     display: grid;
-    grid-template-areas: 'one one one two two two three three three four four four five five five';
+    grid-template-areas: 'one two three four five';
     gap: 5px;
-    padding: 40px 90px 80px 200px;
-    margin: 0;
+    margin: 0 150px;
     justify-items: center;
     align-items: center;
     justify-content: center;

@@ -92,14 +92,14 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://nxn404-n.github.io/Capstone-M1/)
+- [Live Demo Link](https://nxn404-n.github.io/Capstone-Module1/Index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📼 Project Walkthrough <a name="project-walk"></a>
 
-- [Project Walkthrough Link](https://www.loom.com/share/f57c70ac3e6149468e498cff316073ef)
+- [Project Walkthrough Link](https://www.loom.com/share/c436a71439d4420bb75d2d60ce9c654b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
