@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+  .partner {
+    display: none;
+  }
+
+  .footer-black-1 {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-black-1 {
+    display: block;
+  }
+
+  .footer-black {
+    display: none;
+  }
+}
